@@ -21,9 +21,18 @@ p=patches/patches/$f.patch
 
 if [ ! -f $b ]; then echo "No $f! We hates it!"; exit 1; fi
 if [ ! -f $a ]; then echo "No $a! Where is it? Where is the answer, precious?"; exit; fi
-
+ The power and purpose of async/await becomes more apparent
+// when we do multiple things conc
 echo "Hissss!\tbefore: '$b'\n\t after: '$a'\n\t patch: '$p'\n"
 
 diff $b $a > $p
 
 cat $p
+ The power and purpose of async/await becomes more apparent
+// when we do multiple things conc The power and purpose of async/await becomes more apparent
+// when we do multiple things conc The power and purpose of async/await becomes more apparent
+// when we do multiple things conc The power and purpose of async/await becomes m The power and purpose of async/await becomes more apparent
+// when we do multiple things conc  The power and purpose of async/await becomes more apparent
+// when we do multiple things conc The power and purpose of async/await becomes more apparent
+// when we do multiple things concore apparent
+// when we do multiple things conc
